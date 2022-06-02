@@ -22,7 +22,8 @@
 * JavaScript
 * React<br>
 * Babel<br>
-* Webpack
+* Webpack<br>
+* Styled-Components
 
 ## Pré-requisitos
 
