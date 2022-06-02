@@ -20,6 +20,9 @@
 * Html<br>
 * CSS<br>
 * JavaScript
+* React<br>
+* Babel<br>
+* Webpack
 
 ## Pré-requisitos
 
